@@ -1,0 +1,5 @@
+C:\Users\marce\source\repos\Jnz.MassTransit.OpenTracing\Jnz.MassTransit.OpenTracing\bin\Debug\netcoreapp3.1\Jnz.MassTransit.OpenTracing.deps.json
+C:\Users\marce\source\repos\Jnz.MassTransit.OpenTracing\Jnz.MassTransit.OpenTracing\bin\Debug\netcoreapp3.1\Jnz.MassTransit.OpenTracing.dll
+C:\Users\marce\source\repos\Jnz.MassTransit.OpenTracing\Jnz.MassTransit.OpenTracing\obj\Debug\netcoreapp3.1\Jnz.MassTransit.OpenTracing.csprojAssemblyReference.cache
+C:\Users\marce\source\repos\Jnz.MassTransit.OpenTracing\Jnz.MassTransit.OpenTracing\obj\Debug\netcoreapp3.1\Jnz.MassTransit.OpenTracing.AssemblyInfoInputs.cache
+C:\Users\marce\source\repos\Jnz.MassTransit.OpenTracing\Jnz.MassTransit.OpenTracing\obj\Debug\netcoreapp3.1\Jnz.MassTransit.OpenTracing.AssemblyInfo.cs
